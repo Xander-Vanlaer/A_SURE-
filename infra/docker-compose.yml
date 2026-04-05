@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  crudapp:
+    build: .
+    ports:
+      - "8080:80"
