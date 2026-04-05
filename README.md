@@ -7,7 +7,7 @@ Individual assignment — deploying a Flask CRUD application to Azure using Infr
 > Add your architecture diagram image here after creating it on diagrams.net.
 > Export it as PNG, add it to the repo root, and replace the line below.
 
-![Azure Architecture](./diagram.png)
+![Azure Architecture](diagram.png)
 
 ### Resources created
 
